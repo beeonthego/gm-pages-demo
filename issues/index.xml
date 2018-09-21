@@ -17,8 +17,8 @@
       <pubDate>Fri, 25 May 2018 04:13:00 +0000</pubDate>
       
       <guid>/issues/us-east-conn-issues/</guid>
-      <description>Resolved - Updated on the go again, settled. with new name for ci config file.
-We believe all users experiencing issues have been able to connect at this time. (May 25, 2018 - 05:54) Monitoring - We believe the connectivity issues are being caused by an isolated ISP issue. We&amp;rsquo;ve had reports that swapping to Google DNS servers (see here; https://developers.google.com/speed/public-dns/docs/using) resolves the problem for users. (May 25, 2018 - 04:40) Investigating - We&amp;rsquo;re aware of reports that users are experiencing connection issues on the East coast of the United States.</description>
+      <description>Resolved - Updated on the go again, settled. with new name for ci config file. with new ci image (rotating key and build time limit by month.)
+We believe all users experiencing issues have been able to connect at this time. (May 25, 2018 - 05:54) Monitoring - We believe the connectivity issues are being caused by an isolated ISP issue. We&amp;rsquo;ve had reports that swapping to Google DNS servers (see here; https://developers.</description>
     </item>
     
     <item>
